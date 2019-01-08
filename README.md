@@ -1,7 +1,7 @@
 # machinelearning
 My machine learning hobies and exercises
 
-Project #1 The challenge is to predict churn for telecom subscribers based on a French Telecom Operators subscriber database. Dataset contains 50,000 subscriber records and for each subscriber there are 15,000 variables(features).
+Project #1 The challenge is to predict churn for telecom subscribers based on a French Telecom Operators subscriber database. Dataset contains 50,000 subscriber records and for each subscriber there are 15,000 variables(features).
 Files - churnpredictionfeatureextraction.ipynb and churnpredictionexecution.ipynb
 Notes: Files are only for review of the project. The data set is not made public for any execution.
 
