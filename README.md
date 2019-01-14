@@ -14,3 +14,4 @@ Files - nwearly_warning_prediction.ipynb.
 Notes: Files are only for review of the project. The data set is not made public for any execution.
 
 Project #4 Image processign using convolutional neural networks, data from mnist database.
+File: CNN_for_image_processing.ipynb.
